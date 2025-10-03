@@ -1,0 +1,1952 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/122.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/023.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/089.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/034.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/fear/24.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "fear"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/035.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/029.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/125.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/068.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/001.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/anger/07.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "anger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/128.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/130.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/018.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/013.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/054.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/anger/02.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "anger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/046.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/094.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/033.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/032.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/039.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/127.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/08.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/063.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/anger/0091.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "anger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/108.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/097.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/101.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/15.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/104.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/004.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/022.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/0388.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/fear/33.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "fear"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/0391.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/024.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/120.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/021.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/129.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/124.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/091.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/064.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/081.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/09.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/007.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/093.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/043.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/026.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/098.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/fear/13.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "fear"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/065.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/045.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/015.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/115.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/107.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/117.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/036.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/042.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/136.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/019.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/126.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/sadness/002.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "sadness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/003.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/057.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/017.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/078.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/112.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/surprise/0115.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "surprise"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/025.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/114.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/Natural/059.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Natural"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/030.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/092.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "image": "/kaggle/input/autistic-children-emotions-dr-fatma-m-talaat/Autistic Children Emotions - Dr. Fatma M. Talaat/Test/joy/123.jpg"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Analyze the facial expression of the child in the image and classify the emotion. Possible emotions: Natural, anger, fear, joy, sadness, surprise. Output only the emotion name."
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "joy"
+                    }
+                ]
+            }
+        ]
+    }
+]
